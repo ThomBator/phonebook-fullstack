@@ -4,7 +4,7 @@ const info = require("./info");
 const app = express();
 const cors = require("cors");
 
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 //Tells express app to use express.json() middleware to parse any JSON into strings that can be read by JS
 app.use("/api/persons", persons);
