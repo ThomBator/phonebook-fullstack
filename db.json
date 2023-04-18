@@ -1,1 +1,12 @@
-[{"id":1,"name":"Arto Hellas","number":"040-123456"},{"id":2,"name":"Ada Lovelace","number":"39-44-5323523"},{"id":3,"name":"Dan Abramov","number":"12-43-234345"},{"id":4,"name":"Mary Poppendieck","number":"39-23-6423122"},{"id":5,"name":"Tony Pepperoni","number":"555-555-5555"},{"id":6,"name":"Tony","number":"555-555-5555"},{"id":7,"name":"Eddie","number":"555-555-5555"},{"id":8,"name":"Mario","number":"555-555-5555"},{"id":9,"name":"Luigi","number":"555-555-5555"},{"id":10,"name":"Peach","number":"555-444-5555"}]
+[
+  { "id": 1, "name": "Arto Hellas", "number": "040-123456" },
+  { "id": 2, "name": "Ada Lovelace", "number": "39-44-5323523" },
+  { "id": 3, "name": "Dan Abramov", "number": "12-43-234345" },
+  { "id": 4, "name": "Mary Poppendieck", "number": "39-23-6423122" },
+  { "id": 5, "name": "Tony Pepperoni", "number": "555-555-5555" },
+  { "id": 6, "name": "Tony", "number": "555-555-5555" },
+  { "id": 7, "name": "Eddie", "number": "555-555-5555" },
+  { "id": 8, "name": "Mario", "number": "555-555-5555" },
+  { "id": 9, "name": "Luigi", "number": "555-555-5555" },
+  { "id": 10, "name": "Peach", "number": "555-444-5555" }
+]

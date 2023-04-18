@@ -1,9 +1,10 @@
+require("dotenv").config();
 const express = require("express");
 const persons = require("./persons");
 const info = require("./info");
 const app = express();
 const cors = require("cors");
-
+const Contact = require("./ models/contacts");
 const PORT = process.env.PORT || 5000;
 
 //Tells express app to load build folder
